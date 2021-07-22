@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "155263715279",
+    "project_id": "otp-firebase-afad2",
+    "storage_bucket": "otp-firebase-afad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155263715279:android:cdab8c36dec4d144b6f4ba",
+        "android_client_info": {
+          "package_name": "com.example.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155263715279-sjad6lq65kmen48vk0h0f2r3sabk0hh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otplogin",
+            "certificate_hash": "704cc4d3fbde3876efcb6d99d9610ab0321bc8fe"
+          }
+        },
+        {
+          "client_id": "155263715279-h62klvtq15kl0dm4nqlv1pmfl7738s9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6hXQE2mv0MrFPRbjoAVaX5-cS0OmAL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155263715279-h62klvtq15kl0dm4nqlv1pmfl7738s9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
